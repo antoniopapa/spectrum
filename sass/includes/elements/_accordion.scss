@@ -1,0 +1,54 @@
+.accordion {
+    h5 {
+        display: block;
+        padding: 10px 10px 10px 35px;
+        cursor: pointer;
+        color: $text-color;
+        margin-bottom: 5px;
+        background:{
+            color: $gray;
+            image: image-url("plus.png");
+            repeat: no-repeat;
+            position: left 12px center;
+        }
+        &.ui-accordion-header-active {
+            background-image: image-url("minus.png");
+            margin-bottom: 0;
+        }
+        .plus {
+            display: none;
+            background: #ffffff;
+        }
+        .minus {
+            background: $gray;
+        }
+        &.ui-accordion-header-active {
+            .plus {
+                display: inline-block;
+            }
+            .minus {
+                display: none;
+            }
+        }
+    }
+    > div {
+        border: $gray-border;
+    }
+    .answer {
+        padding: 20px 10px 30px;
+        margin-bottom: 7px;
+    }
+    ul {
+        display: block;
+        list-style: none;
+        li {
+            display: block;
+            padding: 10px 15px 10px 35px;
+            background: image-url("dot.png") no-repeat left 12px center;
+        }
+    }
+    .ui-state-focus,
+    .ui-accordion-header {
+        outline: none;
+    }
+}

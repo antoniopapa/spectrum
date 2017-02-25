@@ -1,0 +1,73 @@
+section.contact-form.section
+    section.spectrum-row
+        section.form
+            h2.contact-title Send a message
+
+            form(action='', method='post')
+                table
+                    tr
+                        td
+                            label(for='name') Name
+
+                            input#name.input(type='text', name='name')
+
+                        td
+                            label(for='email') Email
+
+                            input#email.input(type='text', name='email')
+
+                    tr
+                        td(colspan='2')
+                            label(for='subject') Subject
+
+                            input#subject.input.wide(type='text', name='subject')
+
+                    tr
+                        td(colspan='2')
+                            label(for='msg') Comment
+
+                            textarea#msg.textarea(name='msg')
+
+                    tr
+                        td
+                            input.spectrum-button.spectrum-button-large(type='submit', value='Send')
+
+        section.info
+            h2.underline Contact Info
+
+            p
+                | 36006 Witmer Road.
+                br
+                    Niagara Falls, NY 14305
+
+            br
+
+            p Phone: +355 65 23 34 232
+
+            p Fax: +355 65 23 34 232
+
+            p Email: contact@spectrum.com
+
+            p Web: www.spectrum.com
+
+            br
+
+            br
+
+            h2.contact-title Social Networks
+
+            section.social-icons.large-icons
+                a(href='#')
+                    i.icon-facebook-block.bordered
+
+                a(href='#')
+                    i.icon-twitter-block.bordered
+
+                a(href='#')
+                    i.icon-linkedin-block.bordered
+
+                a(href='#')
+                    i.icon-googleplus-block.bordered
+
+                a(href='#')
+                    i.icon-pinterest-block.bordered

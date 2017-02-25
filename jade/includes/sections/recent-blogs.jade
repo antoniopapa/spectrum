@@ -1,0 +1,26 @@
+//Section
+section
+    .spectrum-row
+        h2.section-title.arrows
+            | Other Cool Projects
+            i#next.icon-arrowright-block
+
+            i#prev.icon-arrowleft-block
+        //Projects
+        .projects.projects-3(data-count="3")
+            each val in [10,11,12,13,14,15]
+                .item
+                    a(href='blog-single.html')
+                        img(src='img/310/#{val}.png', alt='')
+
+                    .details
+                        p
+                            strong Video Post Sample
+
+                        p
+                            | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+
+
+                    a.spectrum-button.full-width(href='blog-single.html') See More
+        //./Projects
+//./Section

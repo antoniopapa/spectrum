@@ -1,0 +1,643 @@
+@media (max-width: 960px) {
+  /* line 2, ../sass/responsive/_960.scss */
+  .spectrum-row {
+    width: 100%;
+  }
+
+  /* line 6, ../sass/responsive/_960.scss */
+  .section-title, .post-title {
+    text-align: center;
+  }
+
+  /* line 10, ../sass/responsive/_960.scss */
+  .features {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
+  }
+  /* line 16, ../sass/responsive/_960.scss */
+  .features.circle .feature, .features.circle-icons .feature, .features.square-icons .feature {
+    height: auto;
+    float: none;
+    margin: 0 auto 20px;
+    border: none;
+    width: 400px;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+  }
+  /* line 26, ../sass/responsive/_960.scss */
+  .features.circle .feature h2, .features.circle-icons .feature h2, .features.square-icons .feature h2 {
+    margin-bottom: 10px;
+  }
+  /* line 32, ../sass/responsive/_960.scss */
+  .features.circle .feature i {
+    -moz-transition: none;
+    -o-transition: none;
+    -webkit-transition: none;
+    transition: none;
+  }
+  /* line 37, ../sass/responsive/_960.scss */
+  .features.circle .feature:hover i {
+    margin-top: 50px;
+  }
+
+  /* line 45, ../sass/responsive/_960.scss */
+  .services {
+    width: 600px;
+    margin: 0 auto;
+  }
+
+  /* line 50, ../sass/responsive/_960.scss */
+  .one-half {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
+  }
+
+  /* line 57, ../sass/responsive/_960.scss */
+  .projects .item,
+  .pricing-table,
+  .blog .blog-thumb, .blog.thumb .blog-thumb, .blog.single-blog .blog-image,
+  .sidebar,
+  .content,
+  .form-column,
+  .form-column.third,
+  .form-column .left-margin,
+  .form-column.half
+  .section-2 img,
+  .post-image {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
+  }
+
+  /* line 74, ../sass/responsive/_960.scss */
+  .section-title,
+  .page-title,
+  .projects .item,
+  .services .service p,
+  form p,
+  .one-fourth p,
+  .post-title-underline,
+  .strategy p,
+  .widget p,
+  .contact-title,
+  .me h1,
+  .me p {
+    text-align: center;
+  }
+
+  /* ==========================================================================
+   Header
+   ========================================================================== */
+  /* line 92, ../sass/responsive/_960.scss */
+  #header {
+    overflow: hidden;
+    height: auto;
+  }
+  /* line 96, ../sass/responsive/_960.scss */
+  #header.fixed {
+    height: auto;
+  }
+  /* line 99, ../sass/responsive/_960.scss */
+  #header .logo {
+    float: left;
+  }
+  /* line 103, ../sass/responsive/_960.scss */
+  #header .menu-icon {
+    display: block;
+    float: right;
+  }
+  /* line 108, ../sass/responsive/_960.scss */
+  #header .menu {
+    float: left;
+    display: none;
+    width: 100%;
+    height: 500px;
+    overflow-y: scroll;
+    position: static;
+  }
+  /* line 115, ../sass/responsive/_960.scss */
+  #header .menu li {
+    text-align: left;
+    float: none;
+    position: relative;
+  }
+  /* line 119, ../sass/responsive/_960.scss */
+  #header .menu li a {
+    display: block;
+    border-bottom: 1px solid;
+  }
+  /* line 123, ../sass/responsive/_960.scss */
+  #header .menu li ul {
+    position: static;
+  }
+  /* line 125, ../sass/responsive/_960.scss */
+  #header .menu li ul > li a {
+    width: 100%;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  /* line 133, ../sass/responsive/_960.scss */
+  #header .menu li:hover > ul {
+    display: none;
+  }
+  /* line 137, ../sass/responsive/_960.scss */
+  #header .menu li i {
+    display: block;
+  }
+  /* line 142, ../sass/responsive/_960.scss */
+  #header .menu li .parent i {
+    padding: 13px;
+  }
+
+  /* line 151, ../sass/responsive/_960.scss */
+  #slider .slider {
+    min-height: 0 !important;
+  }
+  /* line 155, ../sass/responsive/_960.scss */
+  #slider .slider li .tp-caption h1 {
+    font-size: 36px !important;
+  }
+  /* line 158, ../sass/responsive/_960.scss */
+  #slider .slider li .tp-caption h3 {
+    font-size: 12px;
+  }
+  /* line 161, ../sass/responsive/_960.scss */
+  #slider .slider li .tp-caption p {
+    font-size: 18px;
+  }
+  /* line 163, ../sass/responsive/_960.scss */
+  #slider .slider li .tp-caption p.list {
+    font-size: 14px;
+    margin: 15px 0;
+  }
+  /* line 169, ../sass/responsive/_960.scss */
+  #slider .slider li .tp-caption .spectrum-button {
+    display: inline-block;
+    margin: 15px 10px 0;
+    padding: 10px 15px;
+  }
+
+  /* line 179, ../sass/responsive/_960.scss */
+  .three-fourth,
+  .one-fourth {
+    width: 100%;
+    padding: 0;
+    border: none;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+  /* line 188, ../sass/responsive/_960.scss */
+  .single .three-fourth, .single .one-fourth {
+    width: 100%;
+    padding: 0;
+    border: none;
+    margin-bottom: 40px;
+  }
+
+  /* line 195, ../sass/responsive/_960.scss */
+  .three-fourth p {
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  /* line 200, ../sass/responsive/_960.scss */
+  .pricing-tables .pricing-table {
+    margin: 0 auto 30px;
+    float: none;
+  }
+
+  /* line 205, ../sass/responsive/_960.scss */
+  .services .service {
+    width: 42.5%;
+    margin: 0 3.75%;
+    text-align: center;
+  }
+  /* line 209, ../sass/responsive/_960.scss */
+  .services .service i {
+    float: none;
+    margin: 0 0 15px;
+  }
+
+  /* line 214, ../sass/responsive/_960.scss */
+  .me {
+    background-position: center bottom;
+  }
+
+  /* line 217, ../sass/responsive/_960.scss */
+  .skills {
+    margin: 0;
+  }
+  /* line 220, ../sass/responsive/_960.scss */
+  .skills.circled .skill {
+    margin-left: calc((100% - 450px)/4);
+    margin-right: calc((100% - 450px)/4);
+  }
+
+  /* line 227, ../sass/responsive/_960.scss */
+  .skillbars {
+    text-align: center;
+  }
+  /* line 229, ../sass/responsive/_960.scss */
+  .skillbars .skill-container {
+    float: none;
+    margin: 0 auto 50px;
+  }
+
+  /* line 235, ../sass/responsive/_960.scss */
+  .columns {
+    margin: 0;
+  }
+  /* line 237, ../sass/responsive/_960.scss */
+  .columns .col, .columns.columns-2 .col, .columns.columns-3 .col, .columns.columns-4 .col {
+    width: 100%;
+  }
+
+  /* line 245, ../sass/responsive/_960.scss */
+  .thumb-post,
+  .top-comments {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* ==========================================================================
+Team
+========================================================================== */
+  /* line 253, ../sass/responsive/_960.scss */
+  .team {
+    width: 100%;
+    margin: 0;
+  }
+  /* line 257, ../sass/responsive/_960.scss */
+  .team.team-6 {
+    margin: 0;
+  }
+  /* line 261, ../sass/responsive/_960.scss */
+  .team.team-2 .member, .team.team-3 .member, .team.team-4 .member, .team.team-6 .member, .team.circles .member {
+    width: 50%;
+  }
+
+  /* ==========================================================================
+Works
+========================================================================== */
+  /* line 275, ../sass/responsive/_960.scss */
+  .works .work {
+    width: 46%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  /* line 280, ../sass/responsive/_960.scss */
+  .works .more {
+    display: none;
+  }
+
+  /* line 286, ../sass/responsive/_960.scss */
+  .projects.owl-carousel, .projects.four-columns.owl-carousel {
+    width: 100%;
+  }
+  /* line 289, ../sass/responsive/_960.scss */
+  .projects .owl-item {
+    text-align: center;
+  }
+  /* line 291, ../sass/responsive/_960.scss */
+  .projects .owl-item .item {
+    display: inline-block !important;
+    margin: 0;
+  }
+
+  /* line 298, ../sass/responsive/_960.scss */
+  .portfolio-grid {
+    width: 620px;
+    margin: 0 auto;
+  }
+
+  /* line 303, ../sass/responsive/_960.scss */
+  .filters {
+    text-align: center;
+  }
+  /* line 305, ../sass/responsive/_960.scss */
+  .filters .filter-container {
+    float: none;
+  }
+  /* line 308, ../sass/responsive/_960.scss */
+  .filters .filter-container .filter {
+    width: auto;
+    padding: 0 10px;
+    -moz-transition: none;
+    -o-transition: none;
+    -webkit-transition: none;
+    transition: none;
+  }
+
+  /* line 316, ../sass/responsive/_960.scss */
+  .portfolio {
+    text-align: center;
+  }
+  /* line 319, ../sass/responsive/_960.scss */
+  .portfolio .item .description h2 {
+    margin-top: 20px;
+    text-align: center;
+  }
+  /* line 323, ../sass/responsive/_960.scss */
+  .portfolio .item .description p {
+    text-align: center;
+  }
+  /* line 326, ../sass/responsive/_960.scss */
+  .portfolio .item .description .view-projects {
+    position: relative;
+    margin: 20px auto 0;
+  }
+  /* line 331, ../sass/responsive/_960.scss */
+  .portfolio.one-column .item {
+    width: 100%;
+  }
+  /* line 333, ../sass/responsive/_960.scss */
+  .portfolio.one-column .item .description {
+    width: 92%;
+    padding: 0 4%;
+    text-align: center;
+  }
+  /* line 338, ../sass/responsive/_960.scss */
+  .portfolio.one-column .item .plink {
+    float: none;
+    margin: 0 auto;
+  }
+  /* line 344, ../sass/responsive/_960.scss */
+  .portfolio.two-columns .item, .portfolio.three-columns .item, .portfolio.four-columns .item {
+    float: none;
+  }
+
+  /* line 350, ../sass/responsive/_960.scss */
+  .sidebar.right {
+    margin-left: 0;
+    margin-top: 80px;
+  }
+  /* line 354, ../sass/responsive/_960.scss */
+  .sidebar.left {
+    margin-right: 0;
+  }
+
+  /* line 358, ../sass/responsive/_960.scss */
+  .blog.thumb .blog-thumb {
+    width: 200px;
+    margin: 0 auto;
+  }
+
+  /* line 362, ../sass/responsive/_960.scss */
+  .error {
+    width: 320px;
+    height: 320px;
+    margin: 0 auto;
+  }
+  /* line 366, ../sass/responsive/_960.scss */
+  .error .title {
+    font-size: 94px;
+    margin-top: 84px;
+  }
+  /* line 370, ../sass/responsive/_960.scss */
+  .error .message {
+    font-size: 30px;
+  }
+
+  /* line 375, ../sass/responsive/_960.scss */
+  .spectrum-button.spectrum-button-large {
+    display: table;
+    float: none;
+    margin: 20px auto 0;
+  }
+
+  /* line 381, ../sass/responsive/_960.scss */
+  .me {
+    background: none;
+  }
+
+  /* line 387, ../sass/responsive/_960.scss */
+  .review.left .author, .review.right .author {
+    float: none;
+    margin: 0 auto;
+  }
+  /* line 392, ../sass/responsive/_960.scss */
+  .review.left .message, .review.right .message {
+    float: none;
+    width: 100%;
+    height: auto;
+  }
+
+  /* line 400, ../sass/responsive/_960.scss */
+  #footer {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  /* line 403, ../sass/responsive/_960.scss */
+  #footer .footer .footer-col {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  /* line 407, ../sass/responsive/_960.scss */
+  #footer p, #footer ul li {
+    text-align: left;
+  }
+  /* line 410, ../sass/responsive/_960.scss */
+  #footer .flickr {
+    width: 225px;
+  }
+  /* line 413, ../sass/responsive/_960.scss */
+  #footer .footer-contact i {
+    float: none;
+  }
+
+  /* line 418, ../sass/responsive/_960.scss */
+  #copyright {
+    text-align: center;
+  }
+  /* line 420, ../sass/responsive/_960.scss */
+  #copyright .social-icons, #copyright p {
+    float: none;
+    margin-top: 10px;
+  }
+}
+@media (max-width: 768px) {
+  /* line 6, ../sass/responsive/_768.scss */
+  .testimonials {
+    padding: 0 20px;
+  }
+
+  /* line 10, ../sass/responsive/_768.scss */
+  .blog .details .more {
+    float: none;
+    position: static;
+    display: table;
+    margin: 30px auto 0;
+  }
+}
+@media (max-width: 640px) {
+  /* line 3, ../sass/responsive/_640.scss */
+  #contact {
+    text-align: center;
+  }
+  /* line 5, ../sass/responsive/_640.scss */
+  #contact .contact {
+    display: none;
+  }
+  /* line 8, ../sass/responsive/_640.scss */
+  #contact .social-icons {
+    float: none;
+  }
+
+  /* line 12, ../sass/responsive/_640.scss */
+  .portfolio-grid {
+    width: 100%;
+  }
+  /* line 14, ../sass/responsive/_640.scss */
+  .portfolio-grid .item {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
+
+  /* line 21, ../sass/responsive/_640.scss */
+  .portfolio.one-column .item .plink .portfolio-image, .portfolio.one-column .item .plink {
+    width: 100%;
+    height: auto;
+  }
+
+  /* line 26, ../sass/responsive/_640.scss */
+  .services {
+    width: 100%;
+  }
+
+  /* line 30, ../sass/responsive/_640.scss */
+  .blog .details span {
+    display: block;
+    float: none;
+    text-align: center;
+    margin: 0 0 10px;
+  }
+  /* line 36, ../sass/responsive/_640.scss */
+  .blog .details span i {
+    float: none;
+  }
+}
+@media (max-width: 480px) {
+  /* line 3, ../sass/responsive/_480.scss */
+  .features.circle .feature, .features.circle-icons .feature, .features.square-icons .feature {
+    width: 100%;
+  }
+
+  /* line 9, ../sass/responsive/_480.scss */
+  .skills.circled .skill, .skills.skillbars .skill {
+    float: none;
+    margin: 10px auto;
+  }
+
+  /* line 14, ../sass/responsive/_480.scss */
+  .skillbars .skill-container {
+    width: 300px;
+  }
+
+  /* line 19, ../sass/responsive/_480.scss */
+  .team .member, .team.circles .member {
+    float: none;
+    margin: 10px auto;
+  }
+
+  /* line 25, ../sass/responsive/_480.scss */
+  #footer .footer-col {
+    width: 100%;
+  }
+
+  /* line 32, ../sass/responsive/_480.scss */
+  #slider .slider li .tp-caption {
+    width: 100%;
+    text-align: center;
+    left: 0 !important;
+    -moz-transform: none;
+    -ms-transform: none;
+    -webkit-transform: none;
+    transform: none;
+  }
+  /* line 38, ../sass/responsive/_480.scss */
+  #slider .slider li .tp-caption .hide {
+    display: none;
+  }
+  /* line 42, ../sass/responsive/_480.scss */
+  #slider .slider li .tp-caption h1 {
+    font-size: 36px;
+  }
+  /* line 47, ../sass/responsive/_480.scss */
+  #slider .slider li .tp-caption p i {
+    display: none;
+  }
+  /* line 52, ../sass/responsive/_480.scss */
+  #slider .slider li .tp-caption .image {
+    width: 60% !important;
+    height: auto !important;
+  }
+  /* line 57, ../sass/responsive/_480.scss */
+  #slider .slider li .tp-caption .spectrum-button {
+    float: none;
+  }
+
+  /* line 65, ../sass/responsive/_480.scss */
+  .features .feature,
+  .strategies .strategy,
+  .form {
+    padding: 20px;
+    width: auto;
+    margin: 0;
+  }
+
+  /* line 74, ../sass/responsive/_480.scss */
+  .team.team-2 .member, .team.team-3 .member, .team.team-4 .member, .team.team-6 .member, .team.circles .member {
+    width: 100%;
+  }
+
+  /* line 83, ../sass/responsive/_480.scss */
+  .widget {
+    padding: 20px;
+  }
+
+  /* line 87, ../sass/responsive/_480.scss */
+  .services .service {
+    width: 210px;
+    margin: 10px auto;
+    float: none;
+  }
+}
+@media only screen and (max-width: 320px) {
+  /* line 7, ../sass/responsive/_320.scss */
+  #slider .slider li .tp-caption h1 {
+    font-size: 24px;
+  }
+  /* line 10, ../sass/responsive/_320.scss */
+  #slider .slider li .tp-caption p {
+    font-size: 14px;
+  }
+  /* line 14, ../sass/responsive/_320.scss */
+  #slider .slider li .tp-caption .image {
+    width: 60% !important;
+  }
+  /* line 18, ../sass/responsive/_320.scss */
+  #slider .slider li .tp-caption .spectrum-button {
+    font-size: 10px;
+    padding: 5px 10px;
+  }
+
+  /* line 27, ../sass/responsive/_320.scss */
+  .services .service,
+  .boxes .box {
+    padding: 20px;
+    width: auto;
+    margin: 0;
+  }
+}

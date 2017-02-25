@@ -1,0 +1,44 @@
+.review {
+    overflow: hidden;
+    margin-bottom: 25px;
+    .author {
+        display: block;
+        width: 200px;
+    }
+
+    .message {
+        width: 510px;
+        height: 200px;
+        padding: 50px 40px 40px;
+        text-align: center;
+        font-size: 14px;
+        border: $gray-border;
+        @include box-sizing(border-box);
+        position: relative;
+        background-color: #ffffff;
+        &:before,  &:after{
+            top: 50%;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+            border-top: solid transparent;
+            border-bottom: solid transparent; 
+        }
+        &:after{
+            border-width: 20px;
+            margin-top: -20px;
+        }
+        &:before {
+            border-width: 22px;
+            margin-top: -22px;
+        }
+        p{
+            margin-bottom: 10px;
+        }
+    }
+    @include review-arrow(left);
+    @include review-arrow(right);
+   
+}

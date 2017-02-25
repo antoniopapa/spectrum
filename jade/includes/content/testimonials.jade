@@ -1,0 +1,16 @@
+section#reviews.section
+    .spectrum-row
+        each val in [1, 2, 3, 4]
+            - var align = (val % 2 == 1 ? 'left' : 'right')
+            .review(class="#{align}")
+                img.author(src='img/team/#{val}.png')
+
+                .message
+                    p
+                        | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                        | eiusmodtempor incididunt ut labore et dolore magna aliqua.
+                        | Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                        | laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                        | irure dolor in reprehenderit.
+
+                    p By John Doe - JohnCorporation

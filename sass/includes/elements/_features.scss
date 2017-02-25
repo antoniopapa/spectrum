@@ -1,0 +1,56 @@
+.features {
+    margin: 0 -50px;
+    .feature {
+        float: left;
+        position: relative;
+        overflow: hidden;
+        width: 250px;
+        margin: 25px 50px;
+        text-align: center;
+        @include box-sizing(border-box);
+
+        h2 {
+            color: $button-color;
+        }
+    }
+    &.circle {
+        .feature {
+            border: $features-border;
+            padding: 15px;  
+            height: 250px;
+            @include border-radius(50%);
+            i {
+                font-size: 75px;
+                margin-top: 50px;
+                display: block;
+                @include transition(margin-top 500ms ease-out);
+            }
+            &:hover {
+                border-color: $blue;
+                i {
+                    margin-top: -135px;
+                }
+            }
+        }
+        h2 {
+            margin-top: 10px;
+            margin-bottom: 110px;
+        }
+    }
+    &.circle-icons .feature i,
+    &.square-icons .feature i {
+        padding: 38px;
+        font-size: 70px;
+        border: 2px solid $icon-color;
+    }
+    &.circle-icons h2,
+    &.square-icons h2 {
+        margin: 25px 0 10px 0;
+    }
+    &.circle-icons .feature i{
+        @include border-radius(50%);
+    }
+    &.square-icons .feature i{
+        @include border-radius(20px);
+    }
+}

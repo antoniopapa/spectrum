@@ -1,0 +1,46 @@
+@mixin wrapper-padding($padding-top, $padding-bottom, $border-bottom:false){
+    overflow: hidden;
+    padding-top: $padding-top;
+    padding-bottom: $padding-bottom;
+    @if $border-bottom == true {
+        border-bottom: $section-border;
+    }
+}
+
+@mixin layout($center:false){
+    display: block;
+    float: left;
+    overflow: hidden;
+    
+    @if $center == true{
+        text-align: center;
+    }
+}
+
+@mixin review-arrow($align){
+    $rev: left;
+    @if $align == left {
+        $rev: right;
+    }
+    
+    &.#{$align}{
+        .author{
+            margin-#{$rev}: 25px;
+            float: $align;
+        }
+        
+        .message{
+            float: $align;
+            &:before,  &:after{
+                #{$rev}: 100%;
+            }
+            
+            &:after{
+                border-#{$rev}: 20px solid #ffffff;
+            }
+            &:before{   
+                border-#{$rev}: 22px solid $gray; 
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+//Slider
+script(src='js/jquery.themepunch.tools.min.js')
+script(src='js/jquery.themepunch.revolution.min.js')
+link(rel='stylesheet', href='css/settings.css')
+script.
+    $(document).ready(function () {
+        if ($.fn.cssOriginal != undefined)
+            $.fn.css = $.fn.cssOriginal;
+        $('.slider').revolution({
+            delay: 5000,
+            startheight: 480,
+            startwidth: 960,
+            hideThumbs: true,
+            navigationType: "both",
+            navigationArrows: "verticalcentered",
+            navigationStyle: "",
+            touchenabled: "on",
+            onHoverStop: "on",
+            navOffsetHorizontal: 0,
+            navOffsetVertical: 20,
+            stopLoop: "off",
+            stopAfterLoops: -1,
+            stopAtSlide: -1,
+            shadow: 1,
+            fullWidth: "off"
+        });
+    });
+
+#slider.fullwidthbanner-container.clearfix
+    span.Apple-tab-span
+
+    .slider
+        ul
+            li(data-transition='fade', data-slotamount='7')
+                img(src='img/slider/slide1.png')
+
+                .tp-caption.sfl(data-x='0', data-y='110', data-speed='700', data-start='1400', data-easing='')
+                    h1.black Clean &amp; Responsive
+                .tp-caption.sfl.black(data-x='0', data-y='230', data-speed='700', data-start='1800', data-easing='easeOutBack')
+                    | Clean design and pure code, everything you need
+
+                .tp-caption.sfl.black(data-x='0', data-y='260', data-speed='700', data-start='1800', data-easing='easeOutBack')
+                    | to present your business is here.
+
+                .tp-caption.sfl(data-x='0', data-y='335', data-speed='700', data-start='2200')
+                    a.spectrum-button.spectrum-button-large(href='#') Learn More
+
+                .tp-caption.lfr(data-x='470', data-y='0', data-speed='700', data-start='500')
+                    img.image.hide(src='img/slider/woman.png')
+
+            li(data-transition='fade', data-slotamount='7')
+                img(src='img/slider/slide2.png')
+
+                .tp-caption.sft(data-x='center', data-y='140', data-speed='700', data-start='1400', data-easing='', style="font-size: 95px;font-weight: bold;")
+                    | FUNCTIONAL
+
+                .tp-caption.sfb(data-x='center', data-y='240', data-speed='700', data-start='1800', data-easing='easeOutBack', style="font-size: 26px;text-transform: uppercase;")
+                    | Different layouts allow you to use this
+
+                .tp-caption.sfb(data-x='center', data-y='270', data-speed='700', data-start='1800', data-easing='easeOutBack', style="font-size: 26px;text-transform: uppercase;")
+                    | theme for any purpose.
+            li(data-transition='fade', data-slotamount='7')
+                img(src='img/slider/slide3.png')
+
+                .tp-caption.lfr.randomrotate(data-x='540', data-y='120', data-speed='700', data-start='1400', data-easing="Power3.easeInOut", data-splitin="none", data-splitout="none", data-elementdelay="0.1", data-endelementdelay="0.1", data-end="6000", data-endspeed="1000")
+                    h1.black Responsive
+
+                .tp-caption.lfr.randomrotate.black(data-x='540', data-y='220', data-speed='700', data-start='1800', data-easing='Power3.easeInOut', data-splitin="none", data-splitout="none", data-elementdelay="0.1", data-endelementdelay="0.1", data-end="6000", data-endspeed="2000")
+                    | Responsive display will look
+
+                .tp-caption.lfr.randomrotate.black(data-x='540', data-y='250', data-speed='700', data-start='1800', data-easing='Power3.easeInOut', data-splitin="none", data-splitout="none", data-elementdelay="0.1", data-endelementdelay="0.1", data-end="6000", data-endspeed="2000")
+                    | good on any device
+
+                .tp-caption.sfl(data-x='540', data-y='320', data-speed='700', data-start='2200')
+                    a.spectrum-button.spectrum-button-large(href='#') Learn More
+                    a.spectrum-button.spectrum-button-large(href='#') Buy Now
+
+                .tp-caption.lfb(data-x='0', data-y='20', data-speed='700', data-start='1000',data-end='9000',data-easing='Power0.easeIn')
+                    img.image.hide(src='img/slider/hand.png')
+
+                .tp-caption.lfb(data-x='123', data-y='88', data-speed='700', data-start='1000', data-easing='Power0.easeIn',data-end='9000')
+                    img.img-fixed.hide(src='img/header.png', alt='', style='width: 171px')
+
+                .tp-caption.lfb.preview-scroll(data-x='123', data-y='128', data-speed='700', data-start='1000', data-easing='Power0.easeIn',data-end='9000')
+                    img.img-scroll.hide(src='img/phone.png', alt='', style='width: 171px')
+
+            li.white(data-transition='fade', data-slotamount='7')
+                img(src='img/slider/slide4.png',data-bgposition="right top",data-kenburns="on",data-duration="12000",data-ease="Power0.easeInOut",data-bgfit="115",data-bgfitend="100",data-bgpositionend="center bottom")
+
+                .tp-caption.fade(data-x='center', data-y='center', data-speed='1000', data-start='1000')
+                    img.image(src='img/slider/spectrum-space.png', style='width: 400px; height: auto;')
+//./Slider

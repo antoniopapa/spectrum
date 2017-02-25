@@ -1,0 +1,64 @@
+.pricing-tables {
+    margin: 0 -15px;
+    .pricing-table {
+        width: 300px;
+        float: left;
+        margin: 0 15px;
+        .pricing-row {
+            padding: 20px;
+            color: $text-color;
+            font-size: 14px;
+            border-left: 1px solid #f3f3f4;
+            border-right: 1px solid #f3f3f4;
+            border-bottom: 1px dotted #f3f3f4;
+            text-align: left;
+            .left-icon {
+                line-height: 36px;
+            }
+            i {
+                font-size: 25px;
+                border: $icon-border;
+                @include border-radius(10px);
+                padding: 5px;
+                float: left;
+                margin-right: 10px;
+            }
+        }
+        .title {
+            padding: 20px 0;
+            font-size: 25px;
+            color: #ffffff;
+            display: block;
+            text-transform: uppercase;
+            background-color: #81e0ea;
+            border-left: 1px solid #81e0ea;
+            border-right: 1px solid #81e0ea;
+            text-align: center;
+        }
+        .pricing-row.feature {
+            line-height: 40px;
+        }
+        .total {
+            font-size: 65px;
+            text-align: center;
+            font-family: $lato;
+            color: #ffffff;
+            padding: 33px 0;
+            background-color: #E6D4E3;
+            @include background-image(linear-gradient(right bottom, #E6D4E3 12%, #E6E0F2 40%, #E0E0F2 57%, #F0EDF7 93%));
+            .total-price {
+                font-size: 74px;
+                line-height: 1;
+                display: block;
+                margin-bottom: 20px;
+                text-align: center;
+            }
+            .month {
+                font-size: 25px;
+                line-height: 1;
+                display: block;
+                text-align: center;
+            }
+        }
+    }
+}

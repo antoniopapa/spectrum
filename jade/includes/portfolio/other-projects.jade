@@ -1,0 +1,19 @@
+section
+    .spectrum-row
+        h2.section-title.arrows
+            | Other Cool Projects
+            i#next.icon-arrowright-block
+
+            i#prev.icon-arrowleft-block
+
+
+        .projects.portfolio.four-columns(data-count="4")
+            each val in [1,2,3,4,5,6,7,8,9,10]
+                .item
+                    a(href='project.html')
+                        img(src='img/230/#{val}.png')
+
+                    h3
+                        a(href='project.html') Project title
+
+                    p Category

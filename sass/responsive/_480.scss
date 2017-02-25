@@ -1,0 +1,92 @@
+@media (max-width: 480px) {
+
+  .features.circle .feature, .features.circle-icons .feature, .features.square-icons .feature {
+    width: 100%;
+  }
+
+
+  .skills.circled, .skills.skillbars {
+    .skill {
+      float: none;
+      margin: 10px auto;
+    }
+  }
+  .skillbars .skill-container {
+    width: 300px;
+  }
+
+  .team, .team.circles {
+    .member {
+      float: none;
+      margin: 10px auto;
+    }
+  }
+
+  #footer .footer-col {
+    width: 100%;
+  }
+
+  #slider {
+    .slider {
+      li {
+        .tp-caption {
+          width: 100%;
+          text-align: center;
+          left: 0 !important;
+          @include transform(none);
+
+          .hide {
+            display: none;
+          }
+
+          h1 {
+            font-size: 36px;
+          }
+
+          p {
+            i {
+              display: none;
+            }
+          }
+
+          .image {
+            width: 60% !important;
+            height: auto !important;
+          }
+
+          .spectrum-button {
+            float: none;
+          }
+        }
+      }
+    }
+  }
+
+  .features .feature,
+  .strategies .strategy,
+  .form {
+    padding: 20px;
+    width: auto;
+    margin: 0;
+  }
+
+  .team {
+    &.team-2 .member,
+    &.team-3 .member,
+    &.team-4 .member,
+    &.team-6 .member,
+    &.circles .member {
+      width: 100%;
+    }
+
+  }
+  .widget {
+    padding: 20px;
+  }
+
+  .services .service {
+    width: 210px;
+    margin: 10px auto;
+    float: none;
+  }
+}

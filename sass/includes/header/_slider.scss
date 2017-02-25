@@ -1,0 +1,109 @@
+/*---------------------------------------------------------
+------------------------- Slider -------------------------
+---------------------------------------------------------*/
+#slider {
+    position: relative;
+    max-height: 480px;
+    .slider{
+        position: relative;
+        padding: 0;
+        overflow: hidden;
+        max-height: 480px;
+        min-height: 480px;
+        li {
+            .tp-caption{
+                font-family: $lato;
+                font-size: 22px;
+                white-space: normal !important;
+                color: #ffffff;
+            }
+            h1, h2, h3 ,p{
+                font-family: $lato;
+                color: #ffffff;
+            }
+            h1 {
+                font-size: 60px;
+            }
+            h3{
+                line-height: 24px;
+            }
+            p {
+                font-size: 22px;
+                white-space: normal !important;
+            }
+            .black {
+                color: #58595b;
+            }
+            i {
+                margin-right: 7px;
+                font-size: 12px;
+                float: left;
+                margin-top: 3px;
+                border: 1px solid #ffffff;
+                color: #ffffff;
+                padding: 5px;
+                @include border-radius(50%);
+            }
+            .spectrum-button {
+                border: 1px solid #9c9c98;
+                color: #666767;
+                margin-right: 15px;
+                font-weight: bold;
+                font-family: $lato;
+                text-transform: uppercase;
+            }
+
+            .preview-scroll{
+                width: 171px;
+                height: 265px;
+                overflow:hidden;
+
+                img{
+                    @include transition(margin-top 2s linear 3s)
+                }
+            }
+
+            &.current-sr-slide-visible{
+                .preview-scroll{
+                    img{
+                        margin-top: -199px;
+                    }
+                }
+            }
+        }
+
+        .tp-bannertimer{
+            display: none;
+        }
+    }
+    &.spectrum-row{
+        .tp-bannertimer{
+            display: block;
+            background: $blue;
+            top: auto;
+            bottom: 0;
+            height: 5px;
+        }
+        .tp-bullets.simplebullets.round .bullet{
+            width: 33px;
+            height: 5px;
+            background: $blue;
+
+            &.selected{
+                opacity: .5;
+            }
+        }
+    }
+
+    .tp-rightarrow, .tp-rightarrow.default{
+        background: image-url('slider/large_right.png') no-Repeat top left;
+        width: 75px;
+        height: 75px;
+    }
+
+    .tp-leftarrow, .tp-leftarrow.default{
+        background: image-url('slider/large_left.png') no-Repeat top left;
+        width: 75px;
+        height: 75px;
+    }
+}

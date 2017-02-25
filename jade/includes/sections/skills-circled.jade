@@ -1,0 +1,49 @@
+script(src='js/jquery.knob.js')
+script.
+  jQuery(document).ready(function () {
+      var scroll = jQuery('#skills').offset();
+      var height = jQuery('#skills').height();
+      jQuery('.knob').knob();
+      jQuery(document).scroll(function () {
+          var y = jQuery(this).scrollTop();
+          if (y >= scroll.top - 500) {
+
+              jQuery('.knob').each(function () {
+                  var skill = jQuery(this);
+                  skill.animate({value: skill.attr("rel")}, {
+                      duration: 2000,
+                      easing: 'swing',
+                      step: function () {
+                        skill.val(Math.ceil(this.value)).trigger('change');
+                      }
+                  });
+              });
+          }
+      });
+  })
+//Skills
+section#skills
+    .spectrum-row
+        h2.section-title My Skills
+
+        .skills.circled
+            .skill
+                input.knob.photoshop(data-min='0', data-max='100', data-bgcolor='#f1f2f2', data-fgcolor='#d1d3d4', data-displayinput='true', data-width='220', data-height='220', data-thickness='.07', rel='81', data-readonly='true', value='0')
+
+                span.skill-name Photoshop
+
+            .skill
+                input.knob.html(data-min='0', data-max='100', data-bgcolor='#f1f2f2', data-fgcolor='#d1d3d4', data-displayinput='true', data-width='220', data-height='220', data-thickness='.07', rel='90', data-readonly='true', value='0')
+
+                span.skill-name Html
+
+            .skill
+                input.knob.css(data-min='0', data-max='100', data-bgcolor='#f1f2f2', data-fgcolor='#d1d3d4', data-displayinput='true', data-width='220', data-height='220', data-thickness='.07', rel='91', data-readonly='true', value='0')
+
+                span.skill-name Css
+
+            .skill
+                input.knob.wordpress(data-min='0', data-max='100', data-bgcolor='#f1f2f2', data-fgcolor='#d1d3d4', data-displayinput='true', data-width='220', data-height='220', data-thickness='.07', rel='72', data-readonly='true', value='0')
+
+                span.skill-name Wordpress
+//./Skills

@@ -1,0 +1,28 @@
+.comment-form
+    .comments-header
+        i.icon-chat.text-icon
+        | Post your comment
+
+    form.form(action='', method='post')
+        .form-column.third
+            label(for='name') Name
+
+            input#name.input.left-margin(type='text', name='name')
+
+        .form-column.third
+            label(for='email') Email
+
+            input#email.input.left-margin(type='text', name='email')
+
+        .form-column.third
+            label(for='subject') Website
+
+            input#subject.input(type='text', name='subject')
+
+        .form-column.full-width
+            label(for='msg') Comment
+
+            textarea#msg.textarea(name='msg')
+
+        p
+            input.spectrum-button.spectrum-button-large.margin-top(type='submit', value='Post Comment')

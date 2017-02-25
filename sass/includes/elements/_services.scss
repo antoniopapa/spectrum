@@ -1,0 +1,19 @@
+.services {
+    margin: 0 -25px;
+    .service {
+        width: 375px;
+        margin: 0 25px 50px 105px;
+        float: left;
+        i {
+            font-size: 35px;
+            float: left;
+            @include border-radius(5px);
+            border: $icon-border;
+            margin-left: -80px;
+            padding: 13px;
+        }
+        p {
+            margin-bottom: 8px;
+        }
+    }
+}

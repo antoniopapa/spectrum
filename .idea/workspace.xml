@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0dbe6a2-a4db-40c4-87b8-41cdce7fcd08" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/200/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/200/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/200/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/200/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/404.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/200/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/200/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/200/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/230/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/310/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flickr/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Sensation/Sansation_Bold_1.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Sensation/Sansation_Bold_1.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Sensation/Sansation_Bold_Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Sensation/Sansation_Bold_Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Sensation/Sansation_Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Sensation/Sansation_Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Sensation/Sansation_Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Sensation/Sansation_Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Sensation/Sansation_Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Sensation/Sansation_Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c279982e11fc8398657f6d0588edf4928f04d036/_320.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_404.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c279982e11fc8398657f6d0588edf4928f04d036/_480.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c279982e11fc8398657f6d0588edf4928f04d036/_640.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c279982e11fc8398657f6d0588edf4928f04d036/_768.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c279982e11fc8398657f6d0588edf4928f04d036/_960.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_accordion.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_blog.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_boxes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_cols.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9ad34b6db23d27661313593cc157f046dc4ffc17/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9e2bb73666ddaf79dc8abad2f31a7239fe5cd53c/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/e0915ae8a3eccf559e9ab2dcc375e6086b82c47b/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_elements.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_elements.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_features.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_fonts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_fonts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_general.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3d6591c3ed885eb756acc862567f4c3e8d3afc46/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/e2939967987d572521239dc4c61817305b49143a/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/e6aa0e42c9f8f9200f657ae432ea43f7666c78c6/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_map.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_me.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3bc534ccd82da61ac372c5520c341383bb295343/_menu.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_menu.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_parallax.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_portfolio.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_pricing-tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_review.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_services.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_skills.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3bc534ccd82da61ac372c5520c341383bb295343/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_strategies.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9ad34b6db23d27661313593cc157f046dc4ffc17/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9e2bb73666ddaf79dc8abad2f31a7239fe5cd53c/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/e0915ae8a3eccf559e9ab2dcc375e6086b82c47b/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_team.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_testimonials.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d391979a458c03cee1a0714191a3d43f6f93d5f3/_text-icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/026863d9991bb8cc57f97bc83327047dd693bd1e/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/45f260bbd52eed12e96d348824d2a54e4f786d50/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/69da555483c52033386d8c24a3a900b9464fbb96/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/94cd70f4775e439a6603b78b19099c0139e59982/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about me shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/64x64/line 37/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/badge5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/bar_chart1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/bar_chart2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/battery1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/battery2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/battery3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/beach_ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video/big_buck_bunny_480p_surround-fix.avi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/binoculars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/blog/blog back arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/blog/blog forward arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/blog1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/blog1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/blog2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/blog2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/blog3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/blog3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/blog4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/blog4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/blog5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/blog5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/blog6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/blog6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/blog7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/blog7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/128x128/line 41/blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/bonfire.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/64x64/line 37/bus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/business card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/cabinet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/camera2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/64x64/line 37/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clients.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/coast at night.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/64x64/line 34/cook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/buttons/icons/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/64x64/line 34/cutting_board.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/64x64/line 37/dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/128x128/line 41/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/diving_mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dot-selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/edit1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/edit2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/email1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/email2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/email3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/email4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/external.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/flashlight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/128x128/line 41/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/gamepad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/src/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/700/group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/960/group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/hook1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/htmlstructure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/im.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/256x256/line 17/ipod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/jade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/juice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/buttons/icons/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/64x64/line 34/kitchen_knife.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/layout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/line_chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/link1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/link2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/link3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo clients.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/logo-slider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/look-good-border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/look-good.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/notebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/paperclip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/48x48/line 27/parasol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/pencil1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/pencil2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/pencil_brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/pencil_pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/pencil_ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/pie_chart1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/pie_chart2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/black/128x128/line 7/pin1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/preload.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/preload2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/48x48/line 24/printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/responsive.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/line-icons/white/32x32/line 19/ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/sass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/images/section.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/simple-design-border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/simple-design.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/sky2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slide1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slide2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slide3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slide4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slide_old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/small_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/small_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/small_slide1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/small_slide2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/small_slide3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/small_slide4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spectrum-space.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/spectrum-space.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/spectrum.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/spectrum.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/spectrum.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/spectrum.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/spectrum.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/spectrum.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d2f58e87e63c7946959d357cecfcba2a946d09cd/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/tech frog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/buttons/icons/tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/ticked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/under-construction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/470/violin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/visited.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/icons/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/404.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/404.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/responsive/_320.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_404.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/responsive/_480.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/responsive/_640.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/responsive/_768.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/responsive/_960.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_accordion.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/tables/_alternating-rows-and-columns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_animation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_appearance.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_background-clip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_background-origin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_background-size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/sprites/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/tables/_borders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_box-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_box-sizing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_box.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/color/_brightness.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/lists/_bullets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/lists/_bullets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/general/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_color.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_cols.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_columns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_configuration.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/color/_contrast.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_css3.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_deprecated-support.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/text/_ellipsis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/text/_ellipsis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_features.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_flexbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/general/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_font-face.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/text/_force-wrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_general.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_general.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/layout/_grid-background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/general/_hacks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_helpers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_helpers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/lists/_horizontal-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/lists/_horizontal-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/links/_hover-link.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/links/_hover-link.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_hyphenation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/lists/_inline-block-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/lists/_inline-block-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_inline-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/lists/_inline-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/lists/_inline-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/links/_link-colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/links/_link-colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/_links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/sass/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_map.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/sass/_maps.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_me.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/header/_menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/general/_min.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/text/_nowrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/text/_nowrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_opacity.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_parallax.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_pie.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_portfolio.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_pricing-tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_regions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/text/_replacement.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/text/_replacement.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_reset-legacy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/general/_reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_review.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_sass.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/tables/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_selection.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_services.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_shared.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_skills.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/header/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/sprites/_sprite-img.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_sprites.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/layout/_sticky-footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/layout/_stretching.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_support.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/general/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/general/_tag-cloud.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_team.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_testimonials.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/elements/_text-icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_text-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_transform.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_transition.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/_units.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/links/_unstyled-link.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/utilities/links/_unstyled-link.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/css3/_user-interface.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/reset/_utilities-legacy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/reset/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/includes/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/compass/typography/_vertical_rhythm.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about-me.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/about-me.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/sidebar/about-the-blog.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/sidebar/about-this-page.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about-us-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/about-us-1.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about-us-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/about-us-2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about-us-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/about-us-3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/about-us.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-content.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-left-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/blog-left-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-right-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/blog-right-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-single-content.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single-left-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-single-left-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/blog-single-left-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single-right-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-single-right-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/blog-single-right-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-single.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/blog-single.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-thumb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog-thumb.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/blog-thumb.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/blog.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/blog.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/buy-now.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/captions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/sidebar/category.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/clients.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/comment-form.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/comments.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/contact-form.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact-full-map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/contact-full-map.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/contact-full-map.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/contact.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/header/contact.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/contact.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/content.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/layouts/default.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/different-layouts.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/faq.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/faq.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/features.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/footer/footer.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/src/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-width.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/full-width.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/full-width.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/src/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/group-image.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/header/header.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/src/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/index-2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/index-3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/index-4.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/index-5.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/index-6.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/join.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mixitup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.royalslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.themepunch.plugins.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/layouts/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/left-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/left-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/left-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/me.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/header/menu.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/header/nav.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/sidebar/offer-box.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/other-projects.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/our-team.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/our-team.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/our-team.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/parallax.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/sidebar/popular-blogs.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/portfolio-2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/portfolio-2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/portfolio-3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/portfolio-3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/portfolio-4.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/portfolio-4.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/portfolio.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/portfolio.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pricing-tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/pricing-tables.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/pricing-tables.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/src/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project-audio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/project-audio.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/project-audio.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project-video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/project-video.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/project-video.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/portfolio/project.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/project.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/raphael-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/buttons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/fancy-type/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/rtl/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/recent-blogs.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/src/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/responsive.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/right-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/right-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/right-sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/royalslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/buttons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/fancy-type/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/link-icons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/plugins/rtl/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scrollReveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/services-1.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/services-1.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/services-2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/services-2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/services.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/sidebar/sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/sidebar/sidebar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/simple-text.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/skills-bar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/skills-circled.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/slider-2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/slider.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/spectrum.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/spectrum.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/spectrum.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/strategy.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/team.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/testimonials-carousel.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/testimonials-page.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/sidebar/testimonials-widget.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/content/testimonials.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pages/testimonials.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/text-icons.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/three-fourth-right-ul.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/three-fourth.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/blog/sidebar/top-commented.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/assets/blueprint-css/src/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/works.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/includes/sections/works3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="spectrum.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_TOOLBAR" value="true" />
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="spectrum" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="slider.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jade/includes/sections/slider.jade">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="1455">
+              <caret line="77" column="71" selection-start-line="77" selection-start-column="71" selection-end-line="77" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slider-2.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jade/includes/sections/slider-2.jade">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1275">
+              <caret line="43" column="129" selection-start-line="43" selection-start-column="129" selection-end-line="43" selection-end-column="129" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about-us-1.jade" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jade/pages/about-us-1.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13333334" vertical-offset="0" max-vertical-offset="675">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strategy.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jade/includes/sections/strategy.jade">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_960.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/responsive/_960.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4305" max-vertical-offset="6450">
+              <caret line="287" column="5" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about-us-3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about-us-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5025" max-vertical-offset="5595">
+              <caret line="335" column="16" selection-start-line="335" selection-start-column="16" selection-end-line="335" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_768.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/responsive/_768.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_640.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/responsive/_640.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="675">
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_480.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/responsive/_480.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="1455">
+              <caret line="90" column="3" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1094" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spectrum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="jsx.switch.disabled" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\spectrum" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\spectrum" />
+      <recent name="C:\wamp\www\spectrum\jade\includes\blog\sidebar" />
+      <recent name="C:\wamp\www\spectrum\jade\includes\sections" />
+      <recent name="C:\wamp\www\spectrum\jade\includes\blog" />
+      <recent name="C:\wamp\www\spectrum\jade\includes\content\sidebar" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0dbe6a2-a4db-40c4-87b8-41cdce7fcd08" name="Default" comment="" />
+      <created>1380917119152</created>
+      <option name="number" value="Default" />
+      <updated>1380917119152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1094" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2749004" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31363153" sideWeight="0.6757679" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32267037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30222842" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32267037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17544988" sideWeight="0.6757679" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/about-us-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5025" max-vertical-offset="5595">
+          <caret line="335" column="16" selection-start-line="335" selection-start-column="16" selection-end-line="335" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive/_768.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive/_640.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="675">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive/_480.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="1455">
+          <caret line="90" column="3" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/content/testimonials-page.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pages/services-2.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/elements/_review.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="833">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/content/testimonials.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/elements/_testimonials.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8519362" vertical-offset="0" max-vertical-offset="629">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/sections/works.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/sections/recent-blogs.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/elements/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="5236">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-left-sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="5389">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/footer/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pages/testimonials.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.730769" vertical-offset="586" max-vertical-offset="1581">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5654886" vertical-offset="0" max-vertical-offset="91936">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="204">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/portfolio/portfolio-2.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="3740">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/layouts/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/layouts/default.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/header/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2142">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/header/header.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/sections/features.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3638">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/header/menu.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2907">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="238">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1986" max-vertical-offset="2754">
+          <caret line="132" column="122" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/content/contact.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/header/contact.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="731">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="189.07692" vertical-offset="4950" max-vertical-offset="5967">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48131868" vertical-offset="597" max-vertical-offset="2006">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/header/_slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="775" max-vertical-offset="1938">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="3134" max-vertical-offset="8721">
+          <caret line="194" column="18" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pages/about-me.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/includes/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="952">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="737" max-vertical-offset="5406">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="613" max-vertical-offset="1224">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive/_768.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="357">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive/_640.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="765">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive/_480.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1183" max-vertical-offset="1649">
+          <caret line="90" column="3" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/responsive/_960.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4682" max-vertical-offset="7310">
+          <caret line="287" column="5" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5025" max-vertical-offset="5595">
+          <caret line="335" column="16" selection-start-line="335" selection-start-column="16" selection-end-line="335" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4437">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/sections/slider.jade">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1060" max-vertical-offset="1649">
+          <caret line="77" column="71" selection-start-line="77" selection-start-column="71" selection-end-line="77" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/sections/strategy.jade">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/includes/sections/slider-2.jade">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="545" max-vertical-offset="1445">
+          <caret line="43" column="129" selection-start-line="43" selection-start-column="129" selection-end-line="43" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pages/about-us-1.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13333334" vertical-offset="0" max-vertical-offset="675">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

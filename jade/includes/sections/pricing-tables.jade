@@ -1,0 +1,27 @@
+//Section
+section
+    .spectrum-row
+        //Pricing Tables
+        .pricing-tables
+            each val in [1,2,3]
+                - var c = count
+                .pricing-table
+                    .pricing-row.title Premium #{val}
+
+                    .pricing-row
+                        | Lorem ipsum dolor sit amet, consectetur
+                        | adipisicing elit, sed do eiusmod
+
+                    while c > 0
+                        - c--
+                        .pricing-row.feature
+                            i.icon-cross
+                            | Lorem Ipsum dolor sit amet
+
+                    .pricing-row.total
+                        span.total-price 25$
+
+                        span.month month
+        //./Pricing Tables
+//./Section
+

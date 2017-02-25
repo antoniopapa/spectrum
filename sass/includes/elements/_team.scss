@@ -1,0 +1,74 @@
+.team {
+  text-align: center;
+  margin: 0 -40px;
+  .member {
+    float: left;
+    overflow: hidden;
+    width: 180px;
+    text-align: center;
+    padding: 0 40px;
+    @include box-sizing(border-box);
+    &:hover .social-icons {
+      border-color: $blue;
+    }
+
+    .picture {
+      width: 100%;
+      &:hover {
+        opacity: .7;
+      }
+    }
+
+    h2 {
+      margin: 10px 0;
+
+      a {
+        text-decoration: none;
+      }
+    }
+
+    .social-icons {
+      padding: 10px;
+      display: inline-block;
+      border-top: 1px solid #f3f3f4;
+      margin-top: 10px;
+    }
+  }
+
+  &.team-4 {
+    .member {
+      width: 25%;
+    }
+  }
+
+  &.team-3 {
+    .member {
+      width: 33.33%;
+    }
+  }
+
+  &.team-2 {
+    .member {
+      width: 50%;
+
+      .picture {
+        width: 270px;
+      }
+    }
+  }
+  &.team-6 {
+    margin: 0 90px;
+    .member {
+      width: 33.33%;
+      padding: 25px;
+    }
+  }
+
+  &.round .picture {
+    border: 2px solid $gray;
+    padding: 20px;
+    @include border-radius(50%);
+    @include box-sizing(border-box);
+  }
+}
+

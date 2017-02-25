@@ -1,0 +1,40 @@
+@media (max-width: 640px) {
+
+  #contact {
+    text-align: center;
+    .contact {
+      display: none;
+    }
+    .social-icons {
+      float: none;
+    }
+  }
+  .portfolio-grid {
+    width: 100%;
+    .item {
+      margin-left: auto;
+      margin-right: auto;
+      float: none;
+    }
+  }
+
+  .portfolio.one-column .item .plink .portfolio-image, .portfolio.one-column .item .plink {
+    width: 100%;
+    height: auto;
+  }
+
+  .services {
+    width: 100%;
+  }
+
+  .blog .details span{
+    display: block;
+    float: none;
+    text-align: center;
+    margin: 0 0 10px;
+
+    i{
+      float: none;
+    }
+  }
+}

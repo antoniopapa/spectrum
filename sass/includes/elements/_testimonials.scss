@@ -1,0 +1,32 @@
+.testimonials {
+  overflow: hidden;
+  width: 100%;
+  padding: 0 150px;
+  text-align: center;
+  @include box-sizing(border-box);
+  p {
+    margin-bottom: 15px;
+  }
+
+  .owl-pagination {
+    margin-top: 36px;
+    display: inline-block;
+    overflow: hidden;
+    .owl-page {
+      float: left;
+      background-color: $icon-color;
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+      cursor: pointer;
+      margin: 0 3px;
+      @include border-radius(50%);
+      &:last-child {
+        margin-right: 0;
+      }
+      &.active {
+        background-color: #BCBEC0;
+      }
+    }
+  }
+}

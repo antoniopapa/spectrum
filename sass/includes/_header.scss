@@ -1,0 +1,50 @@
+#header {
+  border-bottom: $section-border;
+  background: #fff;
+  &.fixed {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    opacity: .95;
+    height: 70px;
+  }
+  .logo {
+    width: 205px;
+  }
+
+  .spectrum-row{
+    padding-top: 10px;
+    height: 60px;
+    position: relative;
+  }
+}
+
+#contact {
+  @include wrapper-padding(20px, 20px);
+  width: 100%;
+  .contact {
+    float: left;
+    display: inline-block;
+    list-style: none;
+    li {
+      display: inline-block;
+      float: left;
+      margin-right: 20px;
+      a {
+        font-size: 15px;
+        color: #d5d5d5;
+        i {
+          color: #d5d5d5;
+          margin-right: 10px;
+          float: left;
+          line-height: 21px;
+          font-size: 18px;
+        }
+      }
+    }
+  }
+}
+
+@import 'header/menu';
+@import 'header/slider';

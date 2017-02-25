@@ -1,0 +1,74 @@
+script(src='js/jquery-ui.js')
+script.
+    jQuery(document).ready(function () {
+        var scroll = jQuery('#skillbars').offset();
+        var height = jQuery('#skillbars').height();
+        jQuery(document).scroll(function () {
+            var y = jQuery(this).scrollTop();
+            if (y >= scroll.top - 500) {
+                jQuery('.skillbar').each(function () {
+                    var t = jQuery(this),
+                        dataperc = t.attr('data-perc'),
+                        barperc = Math.round(dataperc * 4.0);
+                    t.find('.bar').animate({width: barperc}, dataperc * 25);
+                    function perc() {
+                        var length = t.find('.bar').css('width'),
+                                perc = Math.round(parseInt(length) / 4.0),
+                                labelpos = (parseInt(length) - 2);
+                        t.find('.perc').text(perc + '%');
+                    }
+
+                    perc();
+                    setInterval(perc, 0);
+                });
+            }
+        });
+    });
+//Skillbars
+section#skillbars
+    .spectrum-row
+        h2.section-title My Skills
+
+        .skillbars
+            .skill-container
+                p PHOTOSHOP
+
+                .skillbar(data-perc='84', title='PHOTOSHOP')
+                    .bar
+                        span
+
+            .skill-container
+                p HTML
+
+                .skillbar(data-perc='60', title='HTML')
+                    .bar
+                        span
+
+            .skill-container
+                p CSS
+
+                .skillbar(data-perc='78', title='CSS')
+                    .bar
+                        span
+
+            .skill-container
+                p WORDPRESS
+
+                .skillbar(data-perc='40', title='WORDPRESS')
+                    .bar
+                        span
+
+            .skill-container
+                p JQUERY
+
+                .skillbar(data-perc='90', title='JQUERY')
+                    .bar
+                        span
+
+            .skill-container
+                p ILLUSTRATOR
+
+                .skillbar(data-perc='62', title='ILLUSTRATOR')
+                    .bar
+                        span
+//./Skillbars

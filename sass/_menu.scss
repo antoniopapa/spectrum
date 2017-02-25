@@ -1,0 +1,101 @@
+.menu {
+    @inclue layout();
+    float: right;
+    list-style: none;
+    z-index: 100;
+    li {
+        float: left;
+        position: relative;
+        a {
+            font-size: 15px;
+            color: $menu-color;
+            text-decoration: none;
+            display: inline-block;
+            background-color: #ffffff;
+            border: 1px solid #ffffff;
+            border-bottom-color: $border-color;
+        }
+        &.selected > a {
+            color: $blue;
+        }
+        ul {
+            display: none;
+            list-style: none;
+            position: absolute;
+            background: #ffffff;
+            z-index: 100;
+            border-top:  $gray-border;
+            > li a {
+                width: 160px;
+                padding: 10px 10px 10px 20px;
+                border: $gray-border;
+            }
+            li {
+                a > i {
+                    line-height: 21px;
+                }
+                &:hover > {
+                    a {
+                        background: $blue;
+                        border-color: $blue;
+                        color: #fff;
+                    }
+                    i {
+                        color: #fff;
+                    }
+                }
+                > i:hover {
+                    color: #fff;
+                }
+            }
+        }
+        &:hover > ul {
+            display: block;
+        }
+    }
+    > li {
+        > {
+            a {
+                padding: 20px;
+                z-index: 101;
+                text-transform: uppercase;
+                > i {
+                    display: none;
+                    &:hover {
+                        color: $blue;
+                    }
+                }
+            }
+            ul {
+                top: 60px;
+                left: 0;
+                ul {
+                    top: 0;
+                    left: 192px;
+                    border-top: none;
+                }
+                > li > a {
+                    border-top: none;
+                }
+            }
+        }
+        &:hover > a {
+            position: relative;
+            color: $blue;
+            border-color: $gray;
+            border-bottom-color: #ffffff;
+        }
+    }
+}
+.mobile-menu {
+    display: none;
+}
+.menu-icon {
+    display: none;
+    i {
+        float: right;
+        line-height: 50px;
+        font-size: 30px;
+        margin-right: 20px;
+    }
+}

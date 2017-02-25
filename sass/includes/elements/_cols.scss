@@ -1,0 +1,30 @@
+.columns {
+  overflow: hidden;
+  margin: 0 -30px;
+
+  .col{
+    float: left;
+    padding: 0 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    @include box-sizing(border-box);
+  }
+
+  &.columns-4 {
+    .col {
+      width: 25%;
+    }
+  }
+
+  &.columns-3 {
+    .col {
+      width: 33%;
+    }
+  }
+
+  &.columns-2 {
+    .col {
+      width: 50%;
+    }
+  }
+}

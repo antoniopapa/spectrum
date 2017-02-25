@@ -1,0 +1,14 @@
+.gray-section {
+    overflow: hidden;
+    border-bottom: $section-border;
+    background: #fbfbfb;
+    padding: 0;
+}
+.me {
+    padding: 140px 0 150px;
+    background: image-url("about me shadow.png") no-repeat right bottom;
+    h1 {
+        font-size: 37px;
+        margin-bottom: 20px;
+    }
+}

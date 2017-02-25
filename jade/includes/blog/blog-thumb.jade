@@ -1,0 +1,40 @@
+section.wrapper
+    .spectrum-row
+        each val in [1,2,3,4,5,6]
+            article.blog.thumb
+                a(href='#')
+                    img.blog-thumb(src='img/200/#{val}.png')
+
+                .content
+                    .blog-info
+                        h2.post-title
+                            a(href='#') Lorem Ipsum Title
+
+                        p
+                            | Lorem ipsum dolor sit amet, consectetur adipisicing elit, eiusmod tempor incididunt ut labore et
+                            | magna aliqua. Ut ead minim veniam, quis nostrud exercitation
+                            | ullamco laboris aliquip. lorem dolor sit amet, consectetur adipisicing elit, eiusmod tempor
+                            | incididunt labore et dolore...
+
+                    .details
+                        span.author
+                            i.text-icon.icon-user
+                            | By
+                            a(href='#') John Doe
+
+                        span.date
+                            i.text-icon.icon-clock
+                            a(href='#') 20 April 2013
+
+                        span.category
+                            i.text-icon.icon-file
+                            a(href='#') Web Design
+
+                        span.comments
+                            i.text-icon.icon-chat
+                            a(href='#') Comments 5
+
+                        a.more(href='#') Read More
+
+        .load-more
+            a.spectrum-button.spectrum-button-large(href='blog-single.html') Older Posts

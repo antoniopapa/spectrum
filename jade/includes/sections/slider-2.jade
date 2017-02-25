@@ -1,0 +1,80 @@
+//Slider
+link(rel='stylesheet', href='css/settings.css')
+script(src='js/jquery.themepunch.tools.min.js')
+script(src='js/jquery.themepunch.revolution.min.js')
+script.
+    $(document).ready(function () {
+        if ($.fn.cssOriginal != undefined)
+            $.fn.css = $.fn.cssOriginal;
+        $('.slider').revolution({
+            delay: 3500,
+            startheight: 480,
+            startwidth: 960,
+            hideThumbs: 10,
+            stopLoop: "off",
+            stopAfterLoops: -1,
+            stopAtSlide: -1,
+            navigationType: "bullet",
+            navigationArrows: "none",
+            shadow: 1,
+            fullWidth: "off"
+        });
+    });
+
+#slider.tp-banner-container.spectrum-row.clearfix
+    span.Apple-tab-span
+    .slider.tp-banner
+        ul
+            li(data-transition='fade', data-slotamount='7', data-masterspeed='1500', data-zoomstart='undefined', data-zoomend='undefined')
+                img(src='img/slider/small_slide1.png',data-bgposition="center center",data-kenburns="on",data-duration="12000",data-ease="Power0.easeInOut",data-bgfit="100",data-bgfitend="120",data-bgpositionend="center center")
+
+                .tp-caption.sft(data-x='center', data-y='183', data-speed='2000', data-start='500', data-easing='Power3.easeInOut', data-splitin="chars", data-splitout="none", data-elementdelay="0.1", data-endelementdelay="0.1", data-end="6000", data-endspeed="1000",style='font-size: 80px;')
+                    | SIMPLE
+
+                .tp-caption.fade(data-x='center', data-y='275', data-speed='3000', data-start='1200', data-easing='Power4.easeOut')
+                    h3.center SIMPLE DESIGN AND
+
+                .tp-caption.fade(data-x='center', data-y='300', data-speed='3000', data-start='1200', data-easing='Power4.easeOut')
+                    h3.center PURE CODE
+
+                .tp-caption.fade(data-x='center', data-y='center', data-speed='100', data-start='1000', data-easing='')
+                    img(src='img/slider/simple-design-border.png', style='width: 360px; height: auto;')
+
+            li(data-transition='fade', data-slotamount='7', data-masterspeed='1500')
+                img(src='img/slider/small_slide2.png', data-bgfit='cover', data-bgposition='left top', data-bgrepeat='no-repeat')
+
+                .tp-caption.sft(data-x='center', data-y='170', data-speed='2000', data-start='500', data-easing='Power3.easeInOut', data-splitin="none", data-splitout="none", data-elementdelay="0.1", data-endelementdelay="0.1", data-end="6000", data-endspeed="1000",style='color: #231f20;font-size: 70px;')
+                    | RESPONSIVE
+
+                .tp-caption.fade(data-x='center', data-y='250', data-speed='3000', data-start='1500', data-easing='Power3.easeInOut',style='color: #231f20;font-weight:bold;text-align: center;')
+                    | LOOK GOOD ON
+
+                .tp-caption.fade(data-x='center', data-y='280', data-speed='3000', data-start='1500', data-easing='Power3.easeInOut', style='color: #231f20;font-weight:bold;text-align: center;')
+                    | ANY DEVICE
+
+                .tp-caption.fade(data-x='center', data-y='278', data-speed='1000', data-start='2500', data-easing='')
+                    img(src='img/slider/look-good-border.png', style='width: 360px; height: auto;')
+
+            li(data-transition='fade', data-slotamount='7', data-masterspeed='1500')
+                img(src='img/slider/small_slide3.png',data-bgposition="left top",data-kenburns="on",data-duration="12000",data-ease="Power0.easeInOut",data-bgfit="100",data-bgfitend="120",data-bgpositionend="center bottom")
+
+                .tp-caption.fade(data-x='50', data-y='142', data-speed='1500', data-start='1000', data-easing='Power0.easeInOut')
+                    img(src='img/slider/logo-slider.png', style='width: 280; height: auto;')
+
+            li(data-transition='fade', data-slotamount='7', data-masterspeed='1500')
+                img(src='img/slider/small_slide4.png', data-bgfit='cover', data-bgposition='left top', data-bgrepeat='no-repeat')
+
+                .tp-caption.sft(data-x='96', data-y='180', data-speed='500', data-start='2000', data-easing='')
+                    h1(style='font-size: 70px;')
+                        strong FUNCTIONAL
+
+                .tp-caption.sfb(data-x='100', data-y='260', data-speed='500', data-start='2500', data-easing='')
+                    h3
+                        strong
+                            | USE THIS THEME FOR ANY
+                            br
+                            | PURPOSE
+
+                .tp-caption.lfl(data-x='560', data-y='bottom', data-speed='1000', data-start='1000', data-easing='')
+                    img.image.hide(src='img/slider/man.png')
+//./Slider

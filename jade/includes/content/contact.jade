@@ -1,0 +1,76 @@
+script(src='http://maps.google.com/maps/api/js?sensor=false')
+script(src="js/map.js")
+section
+    .spectrum-row
+        h2.section-title Find Us on a map
+
+        #map
+
+        .clearfix
+
+        .form.three-fourth
+            h2.contact-title Send a message
+
+            form(action='', method='post')
+                .form-column.half
+                    label(for='name') Name
+
+                    input#name.input.left-margin(type='text', name='name')
+
+                .form-column.half
+                    label(for='email') Email
+
+                    input#email.input(type='text', name='email')
+
+                .form-column.full-width
+                    label(for='subject') Subject
+
+                    input#subject.input.wide(type='text', name='subject')
+
+                .form-column.full-width
+                    label(for='msg') Comment
+
+                    textarea#msg.textarea(name='msg')
+
+                p
+                    input.spectrum-button.spectrum-button-large.margin-top(type='submit', value='Send')
+
+        .one-fourth
+            h2.contact-title Contact Info
+
+            p
+                | 36006 Witmer Road.
+                br
+                | Niagara Falls, NY 14305
+
+            br
+
+            p Phone: +355 65 23 34 232
+
+            p Fax: +355 65 23 34 232
+
+            p Email: contact@spectrum.com
+
+            p Web: www.spectrum.com
+
+            br
+
+            br
+
+            h2.contact-title Social Networks
+
+            .social-icons.large-icons
+                a(href='#')
+                    i.icon-facebook-block
+
+                a(href='#')
+                    i.icon-twitter-block
+
+                a(href='#')
+                    i.icon-linkedin-block
+
+                a(href='#')
+                    i.icon-googleplus-block
+
+                a(href='#')
+                    i.icon-pinterest-block

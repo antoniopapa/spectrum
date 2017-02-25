@@ -1,0 +1,96 @@
+body {
+    font-size: 14px;
+    font-family: $pt-sans;
+    color: $text-color;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    text-align: left;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    color: $text-color;
+}
+h1 {
+    font-size: 25px;
+}
+h2 {
+    font-size: 21px;
+}
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 12px;
+}
+p {
+    font-size: 14px;
+    line-height: 1.4;
+}
+a {
+    color: $text-color;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+::-moz-selection,
+::selection {
+    background: $blue;
+    text-shadow: none;
+}
+img {
+    vertical-align: middle;
+    width: 100%;
+}
+fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+textarea {
+    resize: vertical;
+}
+img {
+    border: none;
+}
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+}
+section {
+    position: relative;
+    @include wrapper-padding(40px, 40px, true);
+}
+input[type="text"],
+textarea {
+    padding: 4px;
+    background-color: $gray;
+    border: $input-border;
+    @include box-sizing(border-box);
+    width: 100%;
+}
+textarea {
+    height: 160px;
+}
+i {
+    color: $icon-color;
+    display: inline-block;
+    &:hover {
+        color: $blue;
+        border-color: $blue !important;
+    }
+}

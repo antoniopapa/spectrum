@@ -1,0 +1,78 @@
+.sidebar {
+    width: 190px;
+    float: left;
+    overflow: hidden;
+    
+    &.left {
+        margin-right: 70px;
+    }
+    &.right {
+        margin-left: 70px;
+    }
+    
+    .widget {
+        overflow: hidden;
+        margin-bottom: 70px;
+        
+        .box-offer {
+            margin-top: 50px;
+        }
+        .offer {
+            background: $gray;
+            color: $button-color;
+            text-align: center;
+            padding: 20px 10px;
+            h1 {
+                padding: 10px 0 30px;
+                font-size: 50px;
+                text-align: center;
+            }
+            p {
+                text-align: center;
+            }
+        }
+        .quote {
+            padding: 50px 25px;
+            background: $gray;
+            text-align: center;
+            margin-bottom: 30px;
+            position: relative;
+
+            &:after{
+                content: ' ';
+                width: 0;
+                height: 0;
+                border-left: 15px solid transparent;
+                border-right: 15px solid transparent;
+                border-top: 20px solid #f1f2f2;
+                position: absolute;
+                bottom: -20px;
+                left: 50%;
+                margin-left: -20px;
+            }
+        }
+        .top-comments {
+            margin-bottom: 20px;
+            margin-left: 65px;
+            display: table;
+            span {
+                display: block;
+                float: left;
+                background: image-url("comment.png") no-repeat;
+                margin-right: 15px;
+                margin-left: -65px;
+                line-height: 46px;
+                height: 50px;
+                width: 50px;
+                @include box-sizing(border-box);
+                text-align: center;
+                font-size: 17px;
+                color: $button-color;
+            }
+            h6 {
+                margin-top: 10px;
+            }
+        }
+    }
+}
+

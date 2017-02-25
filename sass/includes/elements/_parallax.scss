@@ -1,0 +1,13 @@
+.parallax {
+  overflow: hidden;
+  padding: 120px 0;
+  height: 300px;
+  background: {
+    position: center;
+    repeat: no-repeat;
+    attachment: fixed;
+    image: image-url('parallax.png');
+  };
+  @include background-size(cover);
+  @include box-sizing(border-box);
+}

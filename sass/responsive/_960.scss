@@ -1,0 +1,425 @@
+@media (max-width: 960px) {
+  .spectrum-row {
+    width: 100%;
+  }
+
+  .section-title, .post-title{
+    text-align: center;
+  }
+
+  .features {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
+
+    &.circle .feature,
+    &.circle-icons .feature,
+    &.square-icons .feature {
+      height: auto;
+      float: none;
+      margin: 0 auto 20px;
+      border: none;
+      width: 400px;
+      @include border-radius(0);
+
+      h2 {
+        margin-bottom: 10px;
+      }
+    }
+
+    &.circle .feature {
+      i {
+        @include transition(none);
+      }
+
+      &:hover {
+        i {
+          margin-top: 50px;
+        }
+      }
+    }
+  }
+
+
+  .services {
+    width: 600px;
+    margin: 0 auto;
+  }
+
+  .one-half {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
+  }
+
+  .projects .item,
+  .pricing-table,
+  .blog .blog-thumb, .blog.thumb .blog-thumb, .blog.single-blog .blog-image,
+  .sidebar,
+  .content,
+  .form-column,
+  .form-column.third,
+  .form-column .left-margin,
+  .form-column.half
+  .section-2 img,
+  .post-image, {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
+  }
+
+  .section-title,
+  .page-title,
+  .projects .item,
+  .services .service p,
+  form p,
+  .one-fourth p,
+  .post-title-underline,
+  .strategy p,
+  .widget p,
+  .contact-title,
+  .me h1,
+  .me p {
+    text-align: center;
+  }
+
+  /* ==========================================================================
+   Header
+   ========================================================================== */
+  #header {
+    overflow: hidden;
+    height: auto;
+    
+    &.fixed{
+      height: auto;
+    }
+    .logo, {
+      float: left;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+    }
+
+    .menu {
+      float: left;
+      display: none;
+      width: 100%;
+      height: 500px;
+      overflow-y: scroll;
+      position: static;
+      li {
+        text-align: left;
+        float: none;
+        position: relative;
+        a {
+          display: block;
+          border-bottom: 1px solid;
+        }
+        ul {
+          position: static;
+          > li a {
+            width: 100%;
+            border-left: none;
+            border-top: none;
+            border-right: none;
+            @include box-sizing(border-box);
+          }
+        }
+        &:hover > ul {
+          display: none;
+        }
+
+        i {
+          display: block;
+        }
+
+        .parent {
+          i {
+            padding: 13px;
+          }
+        }
+      }
+    }
+  }
+
+  #slider {
+    .slider {
+      min-height: 0 !important;
+      li {
+        .tp-caption {
+          h1 {
+            font-size: 36px !important;
+          }
+          h3 {
+            font-size: 12px;
+          }
+          p {
+            font-size: 18px;
+            &.list {
+              font-size: 14px;
+              margin: 15px 0;
+            }
+          }
+
+          .spectrum-button {
+            display: inline-block;
+            margin: 15px 10px 0;
+            padding: 10px 15px;
+          }
+        }
+      }
+    }
+  }
+
+  .three-fourth,
+  .one-fourth {
+    width: 100%;
+    padding: 0;
+    border: none;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  .single {
+    .three-fourth, .one-fourth {
+      width: 100%;
+      padding: 0;
+      border: none;
+      margin-bottom: 40px;
+    }
+  }
+  .three-fourth p {
+    text-align: center;
+    padding: 0 20px;
+  }
+  .pricing-tables {
+    .pricing-table {
+      margin: 0 auto 30px;
+      float: none;
+    }
+  }
+  .services .service {
+    width: 42.5%;
+    margin: 0 3.75%;
+    text-align: center;
+    i {
+      float: none;
+      margin: 0 0 15px;
+    }
+  }
+  .me {
+    background-position: center bottom;
+  }
+  .skills {
+    margin: 0;
+    &.circled {
+      .skill {
+        margin-left: calc((100% - 450px)/4);
+        margin-right: calc((100% - 450px)/4);
+      }
+    }
+  }
+
+  .skillbars {
+    text-align: center;
+    .skill-container {
+      float: none;
+      margin: 0 auto 50px;
+    }
+  }
+
+  .columns {
+    margin: 0;
+    .col,
+    &.columns-2 .col,
+    &.columns-3 .col,
+    &.columns-4 .col {
+      width: 100%;
+    }
+  }
+
+  .thumb-post,
+  .top-comments {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* ==========================================================================
+Team
+========================================================================== */
+  .team {
+    width: 100%;
+    margin: 0;
+
+    &.team-6{
+      margin: 0;
+    }
+
+    &.team-2 .member,
+    &.team-3 .member,
+    &.team-4 .member,
+    &.team-6 .member,
+    &.circles .member {
+      width: 50%;
+    }
+
+  }
+
+  /* ==========================================================================
+Works
+========================================================================== */
+  .works {
+    .work {
+      width: 46%;
+      margin-right: 2%;
+      margin-left: 2%;
+    }
+    .more {
+      display: none;
+    }
+  }
+
+  .projects {
+    &.owl-carousel, &.four-columns.owl-carousel {
+      width: 100%;
+    }
+    .owl-item {
+      text-align: center;
+      .item {
+        display: inline-block !important;
+        margin: 0;
+      }
+    }
+  }
+
+  .portfolio-grid {
+    width: 620px;
+    margin: 0 auto;
+  }
+
+  .filters {
+    text-align: center;
+    .filter-container {
+      float: none;
+
+      .filter {
+        width: auto;
+        padding: 0 10px;
+        @include transition(none);
+      }
+    }
+  }
+
+  .portfolio {
+    text-align: center;
+    .item .description {
+      h2 {
+        margin-top: 20px;
+        text-align: center;
+      }
+      p {
+        text-align: center;
+      }
+      .view-projects {
+        position: relative;
+        margin: 20px auto 0;
+      }
+    }
+    &.one-column .item {
+      width: 100%;
+      .description {
+        width: 92%;
+        padding: 0 4%;
+        text-align: center;
+      }
+      .plink {
+        float: none;
+        margin: 0 auto;
+      }
+    }
+
+    &.two-columns .item, &.three-columns .item, &.four-columns .item {
+      float: none;
+    }
+  }
+
+  .sidebar {
+    &.right {
+      margin-left: 0;
+      margin-top: 80px;
+    }
+    &.left {
+      margin-right: 0;
+    }
+  }
+  .blog.thumb .blog-thumb {
+    width: 200px;
+    margin: 0 auto;
+  }
+  .error {
+    width: 320px;
+    height: 320px;
+    margin: 0 auto;
+    .title {
+      font-size: 94px;
+      margin-top: 84px;
+    }
+    .message {
+      font-size: 30px;
+    }
+  }
+
+  .spectrum-button.spectrum-button-large {
+    display: table;
+    float: none;
+    margin: 20px auto 0;
+  }
+
+  .me {
+    background: none;
+  }
+
+  .review{
+    &.left, &.right{
+      .author{
+        float: none;
+        margin: 0 auto;
+      }
+
+      .message{
+        float: none;
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+
+  #footer {
+    padding-left: 15px;
+    padding-right: 15px;
+    .footer .footer-col {
+      width: 100%;
+      margin-bottom: 30px;
+    }
+    p, ul li {
+      text-align: left;
+    }
+    .flickr {
+      width: 225px;
+    }
+    .footer-contact i {
+      float: none;
+    }
+  }
+
+  #copyright {
+    text-align: center;
+    .social-icons, p {
+      float: none;
+      margin-top: 10px;
+    }
+  }
+}
